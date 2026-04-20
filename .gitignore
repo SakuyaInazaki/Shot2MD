@@ -1,0 +1,4 @@
+config.ini
+capture_*.png
+__pycache__/
+.DS_Store
