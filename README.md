@@ -137,7 +137,7 @@ brew install python-tk@3.9
 /opt/homebrew/opt/python@3.9/bin/pip3.9 install pillow pyperclip openai
 
 # 3. 克隆项目
-git clone https://github.com/你的用户名/shot2md.git
+git clone https://github.com/SakuyaInazaki/Shot2MD.git
 cd shot2md
 ```
 
